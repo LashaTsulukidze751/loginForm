@@ -38,7 +38,7 @@ export default function page(){
                     <div className="mb-7 rounded-md border">
                         <input type="text" className="w-5/6 bg-transparent px-[16px] py-[10px] text-[17px] text-white outline-4 outline-blue-500 placeholder:text-white" placeholder="Enter Password"/>
                         <div className="">
-                            lashaasd
+                            lashaasdasd
                         </div>
                     </div>
                     <button type="submit" className="lead-[48px] h-12 w-full rounded-[6px] bg-[#1877f2] text-xl font-bold text-white">Log In</button>
