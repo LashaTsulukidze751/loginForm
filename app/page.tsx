@@ -4,6 +4,8 @@
 
 export default function Home() {
   return (
-    <p>sdfdsdfsgfd</p>
+    <main className="min-h-screen w-full">
+
+    </main>
   );
 }
